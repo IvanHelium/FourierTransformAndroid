@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fourier</string>
+    <string name="textView_text"> start Fourier</string>
+    <string name="TestButton">Button</string>
+</resources>
